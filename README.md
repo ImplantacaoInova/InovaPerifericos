@@ -27,6 +27,7 @@ POS80 - Baixa e instala o driver, após a instalação é necessário escolher o
 **TERMINAL**
 
 Renomear Computador - Aparece um campo para digitar o novo nome, após a execução é necessário reiniciar o computador para que a alteração tenha efeito
+
 Configurações Basicas - Vai fazer as seguintes configurações:
 * Cria a pasta InovaFarma (caso ela não exista)
 * Compartilha a pasta InovaFarma com acesso total para os principais usuários
@@ -40,6 +41,7 @@ Configurações Basicas - Vai fazer as seguintes configurações:
     - Muda o tipo de criptografia para 40 ou 56 bits
       
 VAI SER COMPARTILHADA A PASTA PUBLICA, POREM NÃO VAI HABILITAR ESSA OPÇÃO
+
 POR ENQUANTO NÃO ESTA DESATIVANDO O COMPARTILHAMENTO PROTEGIDO POR SENHA!!!!
 
 Habilitar recursos - Vai habilitar os recursos do Windows, como Net Framework, Serviços de Informações da Internet e Windows Fundation. É recomendado reiniciar o computador após o final da Instalação
