@@ -5,16 +5,24 @@ Essa automação Instala ou configura as seguintes funções:
 **SAT**
 
 Bematech - Baixa, Instala e adiciona as dlls nos lugares corretos
+
 Tanca - Baixa, Instala e adiciona as dlls nos lugares corretos
+
 Elgin - Baixa, Instala e adiciona as dlls nos lugares corretos
+
 
 **IMPRESSORAS**
 
 Dimep - Baixa e instala todos os recursos
+
 Bematech - Baixa e instala o driver, após a instalação é necessário escolher o modelo da impressora
+
 Elgin i7 e i9 - Baixa e instala o driver, após a instalação é necessário escolher o modelo da impressora
+
 Tanca - Baixa e instala o driver, após a instalação é necessário escolher o modelo da impressora
+
 POS80 - Baixa e instala o driver, após a instalação é necessário escolher o modelo da impressora
+
 
 **TERMINAL**
 
