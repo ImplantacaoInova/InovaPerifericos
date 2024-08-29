@@ -29,7 +29,8 @@ Configurações Basicas - Vai fazer as seguintes configurações:
 * Em compartilhamento avançado ele vai habilitar as seguintes opções
     - Ativa a descoberta para rede Privada
     - Ativa a descoberta para rede Publica
-    - Muda o tipo de criptografia para 40 ou 56 bits\n
+    - Muda o tipo de criptografia para 40 ou 56 bits
+      
 VAI SER COMPARTILHADA A PASTA PUBLICA, POREM NÃO VAI HABILITAR ESSA OPÇÃO
 POR ENQUANTO NÃO ESTA DESATIVANDO O COMPARTILHAMENTO PROTEGIDO POR SENHA!!!!
 
