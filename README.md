@@ -50,6 +50,10 @@ Habilitar recursos - Vai habilitar os recursos do Windows, como Net Framework, S
 
 Correção erro 11b - Quando executado no computador onde esta a impressora, ele corrije para não aparecer o erro 0x0000011b nos demais terminais que estão realizando a instalação dessa impressora em rede
 
+**COMPARTILHAR IMPRESSORA**
+
+Lista as impressoras instalada, vai ser necessario escolher a que deseja e depois clique Iniciar
+
 
 ![image](https://github.com/user-attachments/assets/7463c47f-4c29-4457-904c-e4b171f6cc2d)
 
