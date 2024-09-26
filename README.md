@@ -67,6 +67,9 @@ Lista as impressoras instalada, vai ser necessario escolher a que deseja e depoi
 
 ![image](https://github.com/user-attachments/assets/69328cd0-a794-4b14-a626-1b7d66e2c2b1)
 
+![image](https://github.com/user-attachments/assets/9dfdf200-b014-4420-99e4-9ea02b95015e)
+
+
 
 
 
