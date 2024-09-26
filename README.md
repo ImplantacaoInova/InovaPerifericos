@@ -55,7 +55,7 @@ Correção erro 11b - Quando executado no computador onde esta a impressora, ele
 Lista as impressoras instalada, vai ser necessario escolher a que deseja e depois clique Iniciar
 
 
-![image](https://github.com/user-attachments/assets/7463c47f-4c29-4457-904c-e4b171f6cc2d)
+![image](https://github.com/user-attachments/assets/bd471f21-264b-4e82-813b-345c7c765c34)
 
 ![image](https://github.com/user-attachments/assets/3ff05f7f-0db9-4bbd-b024-1a3bf7ceb081)
 
